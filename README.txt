@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dustyleTASes.
-- 👀 I’m interested in TASes, making emulators or ROM Hacks.
+- 👀 I’m interested in making games
+and making ROM Hacks.
 
 
 
